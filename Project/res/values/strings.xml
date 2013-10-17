@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M&amp;M\'s Phonebook</string>
+    <string name="empty_contacts_list">Sorry, you have no contacts</string>
+    <string name="add_new_menu">Add new contact</string>
+    <string name="new_contact_name">Contact Name</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="fill_name">Please, fill name field</string>
+    <string name="unable_to_save">Unable to save contact</string>
+    <string name="delete">Delete</string>
+    <string name="cant_remove">Can\'t remove item</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="edit">Edit</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <com.tonicartos.widget.stickygridheaders.StickyGridHeadersGridView android:id="@+id/listview"
+              android:layout_width="match_parent"
+              android:numColumns="1"
+              android:layout_height="match_parent"/>
+    <TextView android:id="@+id/empty_view"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="30dip"
+              android:gravity="center"
+              android:textSize="22sp"
+              android:textColor="@color/pink"
+              android:text="@string/empty_contacts_list"/>
+</LinearLayout>
+
